@@ -1,0 +1,5 @@
+Mongodb
+user: FFuser
+password: 123
+
+connection string: mongodb+srv://FFuser:<password>@ffdb.tj49d.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
